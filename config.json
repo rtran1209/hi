@@ -23,10 +23,10 @@
     "slowBase": 4.5,
     "logChat": 0,
     "networkUpdateFactor": 40,
-    "maxHeartbeatInterval": 5000,
+    "maxHeartbeatInterval": 25000,
     "foodUniformDisposition": true,
     "virusUniformDisposition": false,
     "newPlayerInitialPosition": "farthest",
-    "massLossRate": 1,
-    "mergeTimer": 15
+    "massLossRate": 0,
+    "mergeTimer": 5
 }
