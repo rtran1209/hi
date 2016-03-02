@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "foodMass": 5,
+    "foodMass": 1,
     "fireFood": 10,
     "limitSplit": 128,
     "defaultPlayerMass": 20,
@@ -28,5 +28,5 @@
     "virusUniformDisposition": false,
     "newPlayerInitialPosition": "farthest",
     "massLossRate": 0,
-    "mergeTimer": 5
+    "mergeTimer": 10
 }
