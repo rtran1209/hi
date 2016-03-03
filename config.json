@@ -19,7 +19,7 @@
     "adminPass": "AgArIoAk",
     "gameMass": 20000,
     "maxFood": 5000,
-    "maxVirus": 5,
+    "maxVirus": 10,
     "slowBase": 4.5,
     "logChat": 0,
     "networkUpdateFactor": 40,
