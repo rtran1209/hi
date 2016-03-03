@@ -18,7 +18,7 @@
     "gameHeight": 5000,
     "adminPass": "AgArIoAk",
     "gameMass": 20000,
-    "maxFood": 15000,
+    "maxFood": 10000,
     "maxVirus": 20,
     "slowBase": 4.5,
     "logChat": 0,
