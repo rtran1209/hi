@@ -17,7 +17,7 @@
     "gameWidth": 5000,
     "gameHeight": 5000,
     "adminPass": "AgArIoAk",
-    "gameMass": 20000,
+    "gameMass": 1000000,
     "maxFood": 5000,
     "maxVirus": 10,
     "slowBase": 4.5,
